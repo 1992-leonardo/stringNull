@@ -14,6 +14,7 @@ int main() {
          std::cout << "O nome digitado foi: " << nome << std::endl;
       }
    }
+   std::cout << "Com isso chegamos ao fim da nossa string. " << std::endl;
 
    return 0;
 }

@@ -14,6 +14,6 @@ int main() {
          std::cout << "O nome digitado foi: " << nome << std::endl;
       }
    }
-         std::cout << "Oi eu sou uma linha. " << std::endl;
+         //removendo a linha que eu tinha add. 
    return 0;
 }
